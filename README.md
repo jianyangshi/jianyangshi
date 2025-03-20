@@ -13,7 +13,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
-    <img src="https://img.shields.io/static/v1?label=Location&message=Changsha&color=7BB32E&logo=audacity">
+    <img src="https://img.shields.io/static/v1?label=Location&message=Suzhou&color=7BB32E&logo=audacity">
 </p>
 
 <br/>
