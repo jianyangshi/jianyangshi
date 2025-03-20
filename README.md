@@ -19,9 +19,9 @@
 <br/>
 
 🎉 **Welcome to my GitHub profile!**
-> 纸上得来终觉浅，绝知此事要躬行
->
-> -- <cite><em>陆游</em></cite>
+> Life is fucking movie!
+> 人生如戏辣！
+> -- <cite><em>EDC</em></cite>
 
 📚 **Favorite teaching website**
 
