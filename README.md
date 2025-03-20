@@ -34,3 +34,4 @@
 >This profile was inspired by [@kalfazed](https://github.com/kalfazed)'s work. Check out his amazing projects!
 
 ## 📘 My own favorite open source projects
+multi-thread-programming  https://github.com/kalfazed/multi-thread-programming/tree/main
