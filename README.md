@@ -36,3 +36,4 @@
 
 ## 📘 My own favorite open source projects
 multi-thread-programming  https://github.com/kalfazed/multi-thread-programming/tree/main
+funasr-android  https://github.com/jianyangshi/funasr-android/tree/master 
