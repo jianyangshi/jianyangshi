@@ -21,6 +21,7 @@
 🎉 **Welcome to my GitHub profile!**
 > Life is fucking movie!
 > 人生如戏辣！
+> 牙签焦虑患者！
 > -- <cite><em>EDC</em></cite>
 
 📚 **Favorite teaching website**
