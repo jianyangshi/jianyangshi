@@ -8,7 +8,7 @@
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Always+love+hanjing+and+qingyao">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Always+love+hj+and+sqy">
 </p>
 
 <p align="center">
