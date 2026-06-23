@@ -22,6 +22,7 @@
 > Life is fucking movie!
 > 人生如戏辣！
 > 牙签焦虑患者！
+> 为了更好的明天而战！
 > -- <cite><em>EDC</em></cite>
 
 📚 **Favorite teaching website**
